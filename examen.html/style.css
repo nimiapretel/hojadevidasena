@@ -1,0 +1,16 @@
+/**header**/
+.navegacion{
+    text-decoration: none;
+    font-size: 2rem;
+    margin: 2rem 2rem 20rem 35rem;
+}
+.parrafo{
+    display: flex;
+}
+.autoliderazgo{
+    border: yellow;
+    margin: 0 3rem 0 3rem;
+}
+.compromiso{
+    margin: 0 3rem 0 3rem;
+}
